@@ -28,7 +28,7 @@ export function Header() {
           Taskboard
         </Link>
         <a
-          href="https://github.com/vercel-labs/async-react-demo"
+          href="https://github.com/nextjs/async-react-demo"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white/50 transition-colors hover:text-white"
